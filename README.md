@@ -110,4 +110,5 @@ Input password: test123
 Hashed: $2a$10$8sWYQgbS...Yw0Y9vUrwRLf72
 
 🙌 Author
-Shaik MahaboobBackend Developer | Spring Boot EnthusiastLinkedIn | GitHub | LinkedIn
+Shaik Mahaboob
+Backend Developer | Spring Boot EnthusiastLinkedIn | GitHub | LinkedIn
